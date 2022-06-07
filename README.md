@@ -1,4 +1,6 @@
-Anyone needing to setup the database from scratch will need to do the following things:
+## User Stories
+
+## Database
 
 #1 Connect to psql
 #2 Create the database using the psql command CREATE DATABASE bookmark_manager;
